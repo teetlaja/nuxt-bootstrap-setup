@@ -5,7 +5,7 @@
       <h1 class="title">
         nuxt-bootstrap-setup
       </h1>
-      <h2 class="subtitle">
+      <h2 class="subtitle bg-primary">
         My superior Nuxt.js project
       </h2>
       <div class="links">
